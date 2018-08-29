@@ -1,9 +1,3 @@
 .DS_Store
-dist
-target
 node_modules/*
-.grunt
-build2
-test/SpecRunner.html
-npm-debug.log
-lib/config.js
+.idea
